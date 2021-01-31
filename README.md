@@ -1,3 +1,4 @@
+<!-- <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px"> -->
 <h1 align="left">Merhaba, ben İbrahim</h1>
 <h3 align="left">21 Yaşındayım, mobil ve backend geliştiriyorum</h3>
 
