@@ -6,7 +6,7 @@
 
 - Anlık kullandığım framework **React Native**
 
-<h3>Geliştirdiğim Diller</h3>
+<h3 align="center">Geliştirdiğim Diller</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="30" height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
@@ -14,13 +14,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
 </p>
 
-<h3>Frameworkler</h3>
+<h3 align="center">Frameworkler</h3>
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="30" height="30"/>  
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" alt="reactnative" width="30" height="30"/> 
 </p>
 
-<h3>Teknolojiler</h3>
+<h3 align="center">Teknolojiler</h3>
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
