@@ -3,9 +3,9 @@
 <h3 align="center">Tek thread işlemcili bir develop</h3>
 
 <p align="center">- Üzerinde çalıştığım proje <a href="https://github.com/ibrhmusta/myGallery1">**Smart-Gallery**</a></p>
-<p align="center">- Anlık kullandığım framework <b>React Native</b></p>
+<p align="center">- Üzerinde çalıştığım framework <b>React Native</b></p>
 
-<h3 align="center">Geliştirdiğim Diller</h3>
+<h3 align="center">Kullandığım Diller</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="30" height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
