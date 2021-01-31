@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/ibrhmusta/ibrhmusta/blob/main/react-native.gif" alt = "hi" width="100%">
 <h1 align="center">Merhaba, ben İbrahim</h1>
-<h3 align="center">21 Yaşındayım, mobil ve backend geliştiriyorum</h3>
+<h3 align="center">Tek thread işlemcili bir develop</h3>
 
 <p align="center">- Üzerinde çalıştığım proje <a href="https://github.com/ibrhmusta/myGallery1">**Smart-Gallery**</a></p>
 <p align="center">- Anlık kullandığım framework <b>React Native</b></p>
