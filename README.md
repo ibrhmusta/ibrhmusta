@@ -26,5 +26,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
 </p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrhmusta&layout=compact" alt="shely"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrhmusta&layout=compact" alt="shely"/></p>
 
