@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/ibrhmusta/ibrhmusta/blob/main/react-native.gif" alt = "hi" width="700px" height="321px">
+<img align="center" src="https://github.com/ibrhmusta/ibrhmusta/blob/main/react-native.gif" alt = "hi" width="100%">
 <h1 align="left">Merhaba, ben İbrahim</h1>
 <h3 align="left">21 Yaşındayım, mobil ve backend geliştiriyorum</h3>
 
