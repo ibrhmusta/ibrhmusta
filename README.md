@@ -27,3 +27,7 @@
 </p>
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrhmusta&layout=compact" alt="shely"/></p>
+<div>
+   <script src='src/three.min.js'></script>
+   <script src="src/daire.js"></script> 
+</div>
