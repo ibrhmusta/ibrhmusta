@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/ibrhmusta/ibrhmusta/blob/main/react-native.gif" alt = "hi" width="100%">
+<img align="center" src="https://github.com/ibrhmusta/ibrhmusta/blob/main/BestMeagerHoki-small.gif" alt = "hi" width="100%">
 <h1 align="center">Merhaba, ben İbrahim</h1>
 <h3 align="center">Tek thread işlemcili bir develop</h3>
 
