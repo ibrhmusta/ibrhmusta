@@ -2,9 +2,8 @@
 <h1 align="center">Merhaba, ben İbrahim</h1>
 <h3 align="center">21 Yaşındayım, mobil ve backend geliştiriyorum</h3>
 
-- Üzerinde çalıştığım proje [Smart-Gallery](https://github.com/ibrhmusta/myGallery1)
-
-- Anlık kullandığım framework **React Native**
+<p align="center">- Üzerinde çalıştığım proje [Smart-Gallery](https://github.com/ibrhmusta/myGallery1)</p>
+<p align="center">- Anlık kullandığım framework **React Native**</p>
 
 <h3 align="center">Geliştirdiğim Diller</h3>
 <p align="center">
