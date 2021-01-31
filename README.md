@@ -2,7 +2,7 @@
 <h1 align="center">Merhaba, ben İbrahim</h1>
 <h3 align="center">Tek thread işlemcili bir develop</h3>
 
-<p align="center">- Üzerinde çalıştığım proje <a href="https://github.com/ibrhmusta/myGallery1">**Smart-Gallery**</a></p>
+<p align="center">- Üzerinde çalıştığım proje <a href="https://github.com/ibrhmusta/myGallery1"><b>**Smart-Gallery**</b></a></p>
 <p align="center">- Üzerinde çalıştığım framework <b>React Native</b></p>
 
 <h3 align="center">Kullandığım Diller</h3>
