@@ -5,7 +5,7 @@
 <p align="center">- Üzerinde çalıştığım proje <a href="https://github.com/ibrhmusta/myGallery1"><b>**Smart-Gallery**</b></a></p>
 <p align="center">- Üzerinde çalıştığım framework <b>React Native</b></p>
 
-<h3 align="center">Kullandığım Diller</h3>
+<h3 align="center">Uzmanlık Alanlarım</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="30" height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
