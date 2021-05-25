@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ibrhmusta?style=social)](https://github.com/ibrhmusta?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/ibrhmusta?style=social)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ibrhmusta&label=Profile%20views&color=ce9927&style=flat" alt="ibrhmusta" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=ibrhmusta&label=Profile%20views&color=ce9927&style=flat" alt="ibrhmusta" /> </p>
 <h1 align="center">Merhaba, ben İbrahim</h1>
 <h3 align="center">Tek thread işlemcili bir develop</h3>
 
