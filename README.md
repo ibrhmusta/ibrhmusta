@@ -1,4 +1,8 @@
 <img align="center" src="https://github.com/ibrhmusta/ibrhmusta/blob/main/BestMeagerHoki-small.gif" alt = "hi" width="100%">
+
+[![GitHub followers](https://img.shields.io/github/followers/ibrhmusta?style=social)](https://github.com/ibrhmusta?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/ibrhmusta?style=social)
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%ibrhmusta.ibrhmusta%2Freadme)
 <h1 align="center">Merhaba, ben İbrahim</h1>
 <h3 align="center">Tek thread işlemcili bir develop</h3>
 
