@@ -7,7 +7,7 @@
 <p align='center'>
   <a href="https://twitter.com/ibrhmusta_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ibrahim-usta-1124ba1a7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ibrhmusta99@gmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>
+  <a href="mailto:ibrhmusta99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>
 </p>
 <p> <img src="https://komarev.com/ghpvc/?username=ibrhmusta&label=Profile%20views&color=ce9927&style=flat" alt="ibrhmusta" /> </p>
 <h1 align="center">Merhaba, ben İbrahim</h1>
